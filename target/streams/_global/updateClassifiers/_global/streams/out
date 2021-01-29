@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/hansa/Documents/IntelliJ%20IDEA/BigData_Assignment2/BigDataTweetProcessing/"), "bigdatatweetprocessing")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/hansa/Documents/IntelliJ%20IDEA/BigData_Assignment2/BigDataTweetProcessing/"), "bigdatatweetprocessing")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
